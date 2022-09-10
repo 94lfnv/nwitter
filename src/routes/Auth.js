@@ -1,4 +1,4 @@
-import { authService, firebaseInstance } from "fbase";
+import { authService } from "../fbase";
 import React, { useState } from "react";
 import {
   signInWithEmailAndPassword,
